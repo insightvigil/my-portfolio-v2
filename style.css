@@ -232,6 +232,7 @@ nav.active {
     text-align: center;
 }
 
+
 .about-container .text-box p {
     margin-top: 12px;
 
@@ -246,7 +247,7 @@ nav.active {
 }
 
 .about-grid p {
-    font-weight:200 ;
+    font-weight:400 ;
 }
 
 .box1 { grid-area: 1 / 1 / 3 / 3; }
@@ -375,10 +376,12 @@ nav.active {
 /*Contact Section*/
 
 #contact {
+    color:#3a86fe;
     color: white;
     height: 100vh;
     background-image: linear-gradient(to bottom, #2a2a6a, #1a1952, #0f0c29);
 }
+
 
 .contact-container {
     
